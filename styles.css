@@ -5,9 +5,48 @@
 	background-color: #eee;
 	cursor:pointer;
 }
-.container .row .card:hover{
+/*.container .row .card:hover{
 	box-shadow: inset 0px 0px 0px 1px black;
 	box-sizing: border-box;
+}*/
+
+/*my colors
+	........RED
+	........BLUE
+	.........GREEN
+	.........black
+	.........cyan
+	.....orange
+	.......yellow
+	.......pink
+*/
+
+.container .row .color-hidden{
+	background-color: #eee;
 }
 
-/*my colors*/
+.container .row .red{
+	background-color: red;
+}
+.container .row .green{
+	background-color: red;
+}
+.container .row .blue{
+	background-color: blue;
+}
+
+.container .row .cyan{
+	background-color: cyan;
+}
+.container .row .orange{
+	background-color: orange;
+}
+.container .row .yellow{
+	background-color: yellow;
+}
+.container .row .pink{
+	background-color: pink;
+}
+.container .row .black{
+	background-color: black;
+}

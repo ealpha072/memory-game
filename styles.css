@@ -1,0 +1,13 @@
+.container .row .card{
+	margin:5px 5px;
+	width: 100px;
+	height: 100px;
+	background-color: #eee;
+	cursor:pointer;
+}
+.container .row .card:hover{
+	box-shadow: inset 0px 0px 0px 1px black;
+	box-sizing: border-box;
+}
+
+/*my colors*/
